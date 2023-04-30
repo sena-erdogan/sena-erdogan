@@ -2,7 +2,6 @@
 
 <!-- ![Pj4t](https://user-images.githubusercontent.com/66382514/202264348-6547067a-842a-4ae1-99d0-13ab0f1d01cd.gif) -->
 
-=============================================
 
 Senior Software Engineering Student
 ------------------------------------
