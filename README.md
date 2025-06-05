@@ -6,9 +6,7 @@
 Junior Backend Developer
 ------------------------------------
 
-* 💻 Junior Backend Developer  
-* 🛠️ Currently improving my DevOps and cloud skills  
+* 🛠️ Currently improving my DevOps skills  
 * 🌱 Exploring open source and building cool things  
-* 📫 Reach me at: [email]
-
-
+* 📫 Reach me at: [senaerdogan2001@gmail.com]
+* 💻 My LinkedIn profile is: [https://www.linkedin.com/in/sena-erdo%C4%9Fan/]
