@@ -3,11 +3,12 @@
 <!-- ![Pj4t](https://user-images.githubusercontent.com/66382514/202264348-6547067a-842a-4ae1-99d0-13ab0f1d01cd.gif) -->
 
 
-Senior Computer Engineering Student
+Junior Backend Developer
 ------------------------------------
 
-* 🌍  I'm based in Istanbul
-* ✉️  You can contact me at [senaerdogan2001@gmail.com]
-* 🚀  This is my [Linkedin](https://www.linkedin.com/in/sena-erdo%C4%9Fan/) profile.
+* 💻 Junior Backend Developer  
+* 🛠️ Currently improving my DevOps and cloud skills  
+* 🌱 Exploring open source and building cool things  
+* 📫 Reach me at: [email]
 
 
