@@ -12,5 +12,5 @@ Junior Backend Developer
 * 💻 My LinkedIn profile is: [https://www.linkedin.com/in/sena-erdo%C4%9Fan/]
 
 <img src="https://komarev.com/ghpvc/?username=sena-erdogan&label=Profile%20views&color=0e75b6&style=flat" alt="sena-erdogan" />
-![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sena-erdogan&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sena-erdogan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=sena-erdogan&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sena-erdogan&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
