@@ -11,5 +11,5 @@ Junior Backend Developer
 * 📫 Reach me at: [senaerdogan2001@gmail.com]
 * 💻 My LinkedIn profile is: [https://www.linkedin.com/in/sena-erdo%C4%9Fan/]
 
-![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sena-erdogan&show_icons=true&theme=radical)<br/>
+![Sena's GitHub stats](https://github-readme-stats.vercel.app/api?username=sena-erdogan&show_icons=true)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sena-erdogan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
