@@ -10,4 +10,18 @@ Junior Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 * 🌱 Exploring open source and building cool things
 * 📫 Reach me at senaerdogan2001@gmail.com or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-erdo%C4%9Fan/)
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sena-erdogan"><img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-erdogan&layout=compact">
+<br>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=sena-erdogan&show_icons=true&count_private=true&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sena-erdogan&hide_border=true"/>
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sena-erdogan&hide_border=true&langs_count=5"/>
+</td>
+</tr>
+</table>
+</p>
+<br>
