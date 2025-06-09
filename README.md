@@ -9,7 +9,5 @@ Junior Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 * 🛠️ Currently improving my DevOps skills  
 * 🌱 Exploring open source and building cool things
 * 📫 Reach me at senaerdogan2001@gmail.com or &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sena-erdo%C4%9Fan/)
-  
-</br>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sena-erdogan">
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-erdogan&layout=compact">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sena-erdogan"><img width="39.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sena-erdogan&layout=compact">
